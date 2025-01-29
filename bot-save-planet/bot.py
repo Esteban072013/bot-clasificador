@@ -20,5 +20,5 @@ async def clasificar(ctx, type_waste: str):
     await ctx.send(result)
 
 
-token = "MTMyNjMzNzUxMDY0NDkxMjIwOA.GyJ_vm.KYEeoQR-wnPgOrefFLBF7jFOisfJmwsmJWCKxw"
+token = ""
 bot.run(token)
